@@ -35,6 +35,9 @@
 <!-- ==================== EXPERIENCE ==================== -->
 ## 💼 Projects & Experience
 
+### 🔹 Data Structure Java 
+**Mission Simulator – IMF Operations using Data Structure**  
+[View on GitHub](https://github.com/diogopbatista-school/estg-ed)
 
 ---
 
