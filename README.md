@@ -39,6 +39,14 @@
 **Mission Simulator – IMF Operations using Data Structure**  
 [View on GitHub](https://github.com/diogopbatista-school/estg-ed)
 
+### 🔹 Applied Cryptography Project 
+**Practical work developed for the Applied Cryptography course**  
+[View on GitHub](https://github.com/diogopbatista-school/estg-ca)
+
+### 🔹 Restaurant Ordering & Management Platform
+**A full-stack web platform for restaurants and customers**  
+[View on GitHub](https://github.com/diogopbatista-school/estg-paw)
+
 ---
 
 <!-- ==================== GITHUB STATS ==================== -->
