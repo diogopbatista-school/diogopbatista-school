@@ -59,7 +59,7 @@
   <a href="https://github.com/diogopbatista-school" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="mailto:diogopbatist15a@gmail.com">
+  <a href="mailto:diogopbatista15@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
