@@ -8,7 +8,7 @@
   <br><br>
   
   <!-- Animated Developer GIF -->
-  <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="250"/>
+  <img src="https://media.tenor.com/NzK5p9zBkUgAAAAd/programmer.gif" width="250"/>
 </div>
 
 ---
@@ -45,7 +45,7 @@
 <!-- ==================== PROJECTS ==================== -->
 ## 💼 Projects & Experience
 <div align="center">
-<img src="https://media.giphy.com/media/l0MYKDr6Fv0q8Lidq/giphy.gif" width="150"/>
+<img src="https://media.tenor.com/Zd3ZyQNRuZ8AAAAC/programming-code.gif" width="150"/>
 </div>
 
 ### 🔹 [Data Structure Java](https://github.com/diogopbatista-school/estg-ed)
