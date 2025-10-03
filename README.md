@@ -1,13 +1,14 @@
 <!-- ==================== HEADER ==================== -->
 <div align="center">
-  # Diogo Batista 🚀
-  ## Cybersecurity & Network Engineering Student
-  🔒 Ethical Hacking | 🖥 Secure Development | 🌐 Network Security
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=diogopbatista-school&style=flat-square)
-  
-  <!-- Animated Developer GIF -->
-  ![Programmer GIF](https://media.tenor.com/NzK5p9zBkUgAAAAd/programmer.gif)
+# Diogo Batista 🚀  
+### Cybersecurity & Network Engineering Student  
+🔒 Ethical Hacking | 🖥 Secure Development | 🌐 Network Security  
+
+![Profile Views](https://komarev.com/ghpvc/?username=diogopbatista-school&style=flat-square)  
+
+![Programmer GIF](https://media.tenor.com/NzK5p9zBkUgAAAAd/programmer.gif)
+
 </div>
 
 ---
@@ -15,9 +16,9 @@
 <!-- ==================== ABOUT ME ==================== -->
 ## 📚 About Me
 <div align="center">
-![Learning Cybersecurity](https://img.shields.io/badge/Learning-Cybersecurity-blue?style=for-the-badge&logo=readme)
-![Focus PenTesting](https://img.shields.io/badge/Focus-PenTesting-green?style=for-the-badge&logo=readme)
-![Tools KaliLinux](https://img.shields.io/badge/Tools-KaliLinux-red?style=for-the-badge&logo=linux)
+![Learning Cybersecurity](https://img.shields.io/badge/Learning-Cybersecurity-blue?style=for-the-badge)
+![Focus PenTesting](https://img.shields.io/badge/Focus-PenTesting-green?style=for-the-badge)
+![Tools KaliLinux](https://img.shields.io/badge/Tools-KaliLinux-red?style=for-the-badge)
 </div>
 
 - 🎓 Currently studying **Cybersecurity & Network Engineering**  
@@ -29,7 +30,6 @@
 
 <!-- ==================== SKILLS ==================== -->
 ## ⚙️ Skills
-
 <div align="center">
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
